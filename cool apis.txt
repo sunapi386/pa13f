@@ -1,0 +1,6 @@
+Cool APIs
+Bump
+Soundcloud
+Neo4j
+Rails for zombies OR sinatra
+Firebase
